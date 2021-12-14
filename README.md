@@ -22,7 +22,7 @@
 ## A little about myself...
 
 - I'm 19 years old;
-- I study Analysis and Systems Development;
+- I have a degree in Systems Analysis and Development;
 - I’m from Brazil;
 - Looking for internship; 
 
