@@ -1,4 +1,4 @@
-# Hi, I'm Iris Moraes! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="22px">
+# Hi, I'm Iris Moraes! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">
 
 <a target="_blank" href="https://linkedin.com/in/iris-de-jesus-moraes-1403b5189">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
