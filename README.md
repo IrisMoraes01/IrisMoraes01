@@ -21,10 +21,9 @@
 
 ## A little about myself...
 
-- I'm 20 years old;
+- I'm 23 years old;
 - I have a degree in Systems Analysis and Development;
 - I’m from Brazil;
-- Looking for internship; 
 
 ----
 
